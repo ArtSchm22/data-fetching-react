@@ -15,7 +15,7 @@
 .post {
   background: #ffff;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  transition: tansform 100ms ease-in-out;
+  transition:  100ms ease-in-out;
 }
 
 .post:hover{
